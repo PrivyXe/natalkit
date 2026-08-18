@@ -7,7 +7,7 @@
 
 > **NatalKit**, milisaniyenin altında yanıt veren, yüksek hassasiyetli bir astrolojik hesaplama motoru ve geliştirici API'sidir. Altın standart kabul edilen **Swiss Ephemeris** astronomik hesaplama motorunu kullanan NatalKit, **9 kadim ve modern astroloji ekolünü** tek bir güçlü, hızlı ve tutarlı API platformunda birleştirir.
 
-İster yeni nesil yapay zeka astroloji asistanları, ister flört uygulamaları için astrolojik uyum algoritmaları, ister zamanlama/öngörü motorları geliştirin; NatalKit uydurma veya tahmine yer bırakmayan, matematiksel olarak kesin ve milimetrik veri sunar.
+İster yeni nesil yapay zeka astroloji asistanları, ister flört uygulamaları için astrolojik uyum algoritmaları, ister zamanlama/öngörü motorları geliştirin; [**NatalKit**](https://natalkit.com) uydurma veya tahmine yer bırakmayan, matematiksel olarak kesin ve milimetrik veri sunar.
 
 ---
 
